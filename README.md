@@ -70,3 +70,22 @@
 ## Group By Multiple
 
 ![alt text](image-20.png)
+
+## Join By lookup operator
+
+![alt text](image-21.png)
+
+![alt text](image-22.png)
+
+## Facet operator
+
+![alt text](image-23.png)
+
+## Project after Join
+
+![alt text](image-24.png)
+
+## Add Extra Field
+
+![alt text](image-25.png)
+![alt text](image-26.png)
